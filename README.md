@@ -9,6 +9,9 @@ Working out consistently (4-5x per week).
 Languages I have worked with:
   Dart, C, JavaScript, CSS, HTML, PHP, Python, PowerShell, Kotlin
 
+UX/UI: 
+  Figma, Adobe XD, Photoshop, GIMP
+
 🎯 Future Goals:
 Transitioning from Computer Science into the fitness industry.
 Becoming a personal fitness trainer—taking the course once I turn 18.
