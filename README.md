@@ -4,19 +4,13 @@ I’m a high school student studying Computer Science in Ostrava, Czech Republic
 👨‍💻 What I'm working on:
 RichPich: A fitness app to help users track workouts, nutrition, and more.
 Developing mobile apps using Flutter SDK.
-Working out consistently (4-5x per week).
+Working out consistently (5x per week).
 
 Languages I have worked with:
-  Dart, C, JavaScript, CSS, HTML, PHP, Python, PowerShell, Kotlin
+  Dart, C, JavaScript, CSS, HTML, PHP, Python, PowerShell, Kotlin, Java
 
 UX/UI: 
   Figma, Adobe XD, Photoshop, GIMP
-
-🎯 Future Goals:
-Transitioning from Computer Science into the fitness industry.
-Becoming a personal fitness trainer—taking the course once I turn 18.
-Building a personal brand to attract clients for personal training.
-Creating fitness content for YouTube and other social media.
 
 💻 Tech I Use:
 Flutter for app development
