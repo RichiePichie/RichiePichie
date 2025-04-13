@@ -16,7 +16,7 @@ Obsessed with building useful apps, learning new tech, and helping people level 
 
 ## 🧠 What I Use (and Love)
 
-**Languages I’ve touched:**  
+**Languages I’ve used:**  
 `Dart`, `C`, `JavaScript`, `HTML`, `CSS`, `PHP`, `Python`, `PowerShell`, `Kotlin`, `Java`
 
 **App Dev Stack:**  
