@@ -1,40 +1,43 @@
 # 👋 Hey, I'm Richard (aka Richie)
 
-I'm a high school CS student based in **Ostrava, Czech Republic** — coding during the day, lifting in the gym by night.  
-Obsessed with building useful apps, learning new tech, and helping people level up their fitness.
+High school CS student from **Ostrava, Czech Republic** — coding by day, lifting by night.  
+I build apps, break PRs, and stay hungry to learn & grow.
 
 ---
 
 ## 👨‍💻 What I'm Building
 
-- **Sila** – A social sports app that connects people to train together → [silasport.app](https://silasport.app/en)
-- **Brocore** – My own fitness app: workouts, nutrition, progress tracking — all in one place
-- Grinding Flutter dev projects
-- Staying consistent in the gym (5x a week, no excuses)
+- **[Sila](https://silasport.app/en)** – A social sports app connecting people to train together  
+- **Brocore** – My all-in-one fitness tracker: workouts, nutrition, progress & more  
+- Flutter projects on grind mode  
+- Gym 5x/week — no excuses
 
 ---
 
-## 🧠 What I Use (and Love)
+## 🧠 My Tech Stack
 
-**Languages I’ve used:**  
+**Languages:**  
 `Dart`, `C`, `JavaScript`, `HTML`, `CSS`, `PHP`, `Python`, `PowerShell`, `Kotlin`, `Java`
 
 **App Dev Stack:**  
 `Flutter`, `Firebase`, `Hive`, `REST APIs`, `GraphQL`, `BLoC`, `Dio`, `Clean Architecture`
 
 **Tools I vibe with:**  
-`VSCode`,  `Figma`, `Adobe XD`, `Photoshop`
+`VSCode`, `Figma`, `Adobe XD`, `Photoshop`
+
+> 📈 [My GitLab](https://gitlab.com/Richie_Pichie)  
+> ⏱ [My WakaTime](https://wakatime.com/@RichiePichie)
 
 ---
 
-## 🎯 My Goals
+## 🎯 Goals
 
-- Launch **Brocore** and keep improving it based on real users
-- Share my fitness + dev journey on **YouTube & IG**
-- Help beginners with coaching, courses, and no-BS fitness advice
-- Just keep learning, building, and lifting 🤝
+- Launch and grow **Brocore**
+- Document my dev + fitness journey on **YouTube & IG**
+- Help beginners through coaching, courses, and straight-up fitness knowledge
+- Keep showing up and leveling up 🤝
 
 ---
 
 > “Discipline over motivation.”  
-Thanks for stopping by 👊
+Appreciate you checking this out 👊
