@@ -7,7 +7,7 @@ I build apps, break PRs, and stay hungry to learn & grow.
 
 ## 👨‍💻 What I'm Building
 
-- **[Sila](https://silasport.app/en)** – A social sports app connecting people to train together  
+- **[Sila](https://silasport.app)** – A social sports app connecting people to train together  
 - **Brocore** – My all-in-one fitness tracker: workouts, nutrition, progress & more  
 - Flutter projects on grind mode  
 - Gym 5x/week — no excuses
